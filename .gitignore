@@ -1,0 +1,9 @@
+# datasets and run outputs
+data/
+results/
+*.pth
+.ipynb_checkpoints/
+__pycache__/
+
+# assignment brief (lecturer's handout, not redistributed)
+en4554_assignment_a2_cnn.pdf
